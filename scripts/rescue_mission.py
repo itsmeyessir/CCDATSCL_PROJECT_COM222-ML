@@ -9,8 +9,8 @@ from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
 # 1. YOUR EXACT SESSION WINDOW (Manila Time)
-START_TIME_STR = "2025-11-29 18:01:00" 
-END_TIME_STR   = "2025-11-29 21:05:00"
+START_TIME_STR = "2025-12-04 20:20:00" 
+END_TIME_STR   = "2025-12-04 20:23:00"
 
 # 2. YOUR TIMEZONE OFFSET (Manila = 8)
 TIMEZONE_OFFSET = 8 
@@ -148,7 +148,7 @@ def rescue_data():
         df = pd.DataFrame(rescued_data)
         header_needed = not os.path.exists(DATA_FILE)
         # Append mode to be safe, or 'w' to overwrite if you want a clean start
-        df.to_csv(DATA_FILE, mode='w', index=False)
+        df.to_csv(DATA_FILE, mode='a', header=header_needed, index=False)
         print(f"🎉 RESCUE COMPLETE! Saved {len(rescued_data)} tracks to {DATA_FILE}")
     else:
         print("❌ No tracks found. (Did you listen to music?)")
