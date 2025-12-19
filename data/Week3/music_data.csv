@@ -1,0 +1,273 @@
+timestamp,artist,title,genres,popularity
+2025-12-12 17:03:00,Djo,Love Can't Break The Spell,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:08:00,Djo,Mr. Mountebank,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:13:00,Djo,Carry The Name,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:16:00,Djo,It's Over,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:19:00,Djo,Purgatory Silverstar,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:23:00,Djo,Who You Are,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:27:00,Djo,Grime Of The World,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:31:00,Djo,Try Me,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:33:00,Djo,They Don't Know What's Right,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 17:00:00,Djo,T. Rex Is Loud,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 18:53:00,Djo,Awake,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 18:58:00,Djo,Lonesome Is a State of Mind,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 19:02:00,Djo,Basic Being Basic,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 19:08:00,Djo,Potion,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 19:11:00,J. Cole,Port Antonio,rap,84
+2025-12-12 19:16:00,Joey Fatts,Corporate Thuggin',"rap, hip-hop, los angeles, underground rap, gangsta",40
+2025-12-12 19:19:00,Malz Monday,Karuna,"hip-hop, rap, hip hop, new york, funk_add_to_lidarr_batch_17",47
+2025-12-12 19:05:00,Djo,Link,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-12 19:23:00,Chance the Rapper,No More Old Men (feat. Jamila Woods),"hip-hop, rap, hip hop, chicago, jazz rap",75
+2025-12-12 19:28:00,Joey Bada$$,STILL (feat. Ab-Soul & Rapsody),"hip hop, rap, jazz rap",71
+2025-12-12 19:31:00,Cordae,Nothings Promised,"rap, trap, hip-hop, jazz rap, hip hop",64
+2025-12-12 19:35:00,Noname,Hundred Acres,alternative r&b,51
+2025-12-12 19:38:00,Mavi,Potluck,"experimental hip hop, alternative hip hop",59
+2025-12-12 19:41:00,Benny the Butcher,Why Would I (feat. G Herbo),boom bap,64
+2025-12-12 19:43:00,Juicy J,Suicide Doors (feat. Cordae),crunk,75
+2025-12-12 19:46:00,Ben Reilly,Super Buick,"hip-hop, electronica, hardcore, trance, techno",43
+2025-12-12 19:50:00,Peezy,Let's Talk About It,"rap, hip-hop, michigan, detroit rap, hip hop",57
+2025-12-12 19:53:00,Mac Miller,Cable Box,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",83
+2025-12-12 19:58:00,millkzy,heavencanwait(itcan’t),Unknown,58
+2025-12-12 20:01:00,Buddy,NUNYA,"hip-hop, rap, german, indie, los angeles",55
+2025-12-12 20:04:00,KOTA The Friend,5 Percenters,"hip-hop, rap, jazz rap, jazz hop, brooklyn",54
+2025-12-13 10:15:00,Swink,My Dear,"lo-fi, lo-fi hip hop, lo-fi beats",53
+2025-12-13 10:18:00,bCalm,free,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2025-12-13 10:21:00,Mondo Loops,Essence of the Forest,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2025-12-13 10:24:00,bCalm,Inner Peace,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2025-12-13 10:26:00,Yasumu,Just Wait,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2025-12-13 10:29:00,Living Room,Serenity Within,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2025-12-13 10:32:00,Kinissue,Cascade,"lo-fi, lo-fi hip hop",44
+2025-12-13 10:34:00,Xander.,Strange Emotions,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",56
+2025-12-13 10:37:00,Yestalgia,Glowing,"lo-fi, lo-fi hip hop, lo-fi beats",47
+2025-12-13 10:40:00,Swink,When The Winters Come,"lo-fi, lo-fi hip hop, lo-fi beats",53
+2025-12-13 10:42:00,Purrple Cat,Out There,"lo-fi, lo-fi hip hop, lo-fi beats",59
+2025-12-13 10:44:00,Nadav Cohen,Saba,"lo-fi, lo-fi hip hop",52
+2025-12-13 10:47:00,squeeda,Empty Bed,"lo-fi, lo-fi hip hop, lo-fi beats",45
+2025-12-13 10:55:00,Softy,Snow in October,"lo-fi hip hop, lo-fi, lo-fi beats",64
+2025-12-13 10:58:00,kyu,Im Fine,"lo-fi hip hop, lo-fi",46
+2025-12-13 11:00:00,HOKØ,Sweetness of the Past,"lo-fi, jazz beats",53
+2025-12-13 11:04:00,Sleepermane,In Between Cycles,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-13 11:06:00,nytø,Frozen Sky,lo-fi,46
+2025-12-13 11:08:00,dryhope,Quetzal,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-13 11:10:00,kurt stewart,Cope,"lo-fi hip hop, lo-fi, lo-fi beats",42
+2025-12-13 10:53:00,thatlofiguy,Timeless Memories,lo-fi,36
+2025-12-13 11:12:00,Tibeauthetraveler,Dream Of A Butterfly,"lo-fi, lo-fi hip hop, lo-fi beats",58
+2025-12-13 11:15:00,mell-ø,Without You,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2025-12-13 11:16:00,LUQĘT,Mystical Resonance,lo-fi,47
+2025-12-13 11:19:00,Ivylake,As Time Goes By,"lo-fi hip hop, lo-fi",40
+2025-12-13 11:21:00,bluntone,Childhood Flashback,"lo-fi hip hop, lo-fi, lo-fi beats",55
+2025-12-13 11:23:00,Lomme,Aurora,"lo-fi hip hop, lo-fi",46
+2025-12-13 11:25:00,Kanisan,Unusual Place,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-13 11:27:00,Dontcry,Mosaic,"lo-fi, lo-fi hip hop, lo-fi beats",58
+2025-12-13 11:29:00,HEVI,pictures i can't look at,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2025-12-13 11:32:00,azayaka,from town to town,"lo-fi, lo-fi beats",50
+2025-12-13 11:35:00,juniorodeo,Marine Layer,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2025-12-13 11:38:00,Towerz,Hearts,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2025-12-13 11:41:00,Casiio,Glowing Jellyfish,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2025-12-13 11:43:00,Kupla,Carousel,"lo-fi hip hop, lo-fi, lo-fi beats",55
+2025-12-13 11:46:00,cxlt.,Rays Of Light,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2025-12-13 11:48:00,Yasumu,Midnight Thoughts,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2025-12-13 11:51:00,Nadav Cohen,Dusty Attic,"lo-fi, lo-fi hip hop",52
+2025-12-13 12:01:00,hoogway,A Place I Love,"lo-fi hip hop, lo-fi, lo-fi beats",61
+2025-12-13 12:04:00,Nadav Cohen,Floating with you,"lo-fi, lo-fi hip hop",52
+2025-12-13 12:07:00,Nadav Cohen,Connected Spirits,"lo-fi, lo-fi hip hop",52
+2025-12-13 12:09:00,Xander.,Saving,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",56
+2025-12-13 12:12:00,Lawrence Walther,Sand Cottage,"lo-fi, lo-fi hip hop, lo-fi beats",51
+2025-12-13 12:15:00,Tenno,Home,"lo-fi, lo-fi hip hop, lo-fi beats",53
+2025-12-13 12:18:00,Galimatias,Intro,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:19:00,Galimatias,Redeye,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:22:00,Galimatias,Boy Hachi,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:23:00,Galimatias,Let Go,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:27:00,Galimatias,Sly,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:30:00,Galimatias,Wonder,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:37:00,Galimatias,Sinner,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:41:00,Galimatias,Everywhere,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:43:00,Galimatias,Room 332,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:46:00,Galimatias,Everytime,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:49:00,Galimatias,Intro,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:50:00,Galimatias,Redeye,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:53:00,Galimatias,Boy Hachi,"chillstep, chillout, lounge, electronic, danish",54
+2025-12-13 12:59:00,Amies,From Within,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-13 13:01:00,Nuver,shuttle,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2025-12-13 13:04:00,Swink,Fiesole,"lo-fi, lo-fi hip hop, lo-fi beats",53
+2025-12-13 13:06:00,Dimension 32,Turtle Island,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2025-12-13 13:08:00,Tom Doolie,New Fields,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2025-12-13 13:10:00,Lucid Keys,Fantasia,lo-fi,55
+2025-12-13 13:13:00,MyceliumBug,Sleep Well,"lo-fi, jazz beats",52
+2025-12-13 13:15:00,Lilac,Perfume,"lo-fi hip hop, lo-fi, lo-fi beats",47
+2025-12-14 11:16:00,Christian Kuria,Sunbleach,"soul, rnb, electronic, usa, experimental hip-hop",59
+2025-12-14 11:20:00,keshi,Soft Spot,"lo-fi, rnb, live, alternative, usa",76
+2025-12-14 11:24:00,John Cha,With You,"cha soonjong, wave to earth",23
+2025-12-14 11:42:00,boy pablo,tkm,bedroom pop,56
+2025-12-14 11:48:00,Denise Julia,butterflies,pinoy r&b,60
+2025-12-14 11:34:00,juan karlos,Tanga Mo Juan,"opm, harana, pinoy indie, p-pop, kundiman",61
+2025-12-14 11:38:00,Damdamgugu,Love,"indie, rnb, korean, k-rnb, k-indie",40
+2025-12-14 11:52:00,JAY-Z,Excuse Me Miss,"hip hop, east coast hip hop, rap",85
+2025-12-14 11:56:00,The Neighbourhood,Pretty Boy,"indie, indie rock, indie pop, rock, alternative",86
+2025-12-14 12:00:00,Haki,서로 (Used to be),"alternative, experimental, no wave, punk, post-punk",20
+2025-12-14 12:04:00,Denise Julia,butterflies (2 a.m. Version),pinoy r&b,60
+2025-12-14 12:06:00,Nonso Amadi,Radio,"alté, afro r&b, afrobeats, afrobeat, afropop, afro soul",49
+2025-12-14 11:30:00,James Arthur,Falling Like the Stars,soft pop,82
+2025-12-14 12:10:00,Noah Alejandre,Di Man Tinadhana,"opm, harana, pinoy indie, kundiman",44
+2025-12-14 12:14:00,Ley Soul,Intergalactic Janet,"neo-soul, soul, rnb, indie, chicago",53
+2025-12-14 12:16:00,keshi,SAY,"lo-fi, rnb, live, alternative, usa",76
+2025-12-14 12:19:00,ENHYPEN,Hundred Broken Hearts,k-pop,81
+2025-12-14 12:23:00,Seventeen,SPELL,k-pop,79
+2025-12-14 12:26:00,Ckay,come close (feat. Ayra Starr),"afrobeats, afrobeat, afro r&b, afropop",70
+2025-12-14 12:30:00,Rini,Meet Me in Amsterdam,"rnb, soul, australia, female vocalist, filipino",57
+2025-12-14 12:35:00,Ariana Grande,Let Me Love You,pop,95
+2025-12-14 12:38:00,Ndotz,Embrace It,"rap, hip-hop, british, my top songs",61
+2025-12-14 12:40:00,The Weeknd,Less Than Zero,"rnb, electronic, dubstep, canadian, prog-rnb",96
+2025-12-14 12:44:00,HYBS,Tip Toe,"rnb, synthpop, thai, pop, thailand",64
+2025-12-14 12:49:00,UMI,wherever u r (ft. V of BTS),"rnb, hip-hop, soul, rutracker, upcoming album 2022",59
+2025-12-14 12:51:00,Arthur Nery,o ninanais,"opm, harana, p-pop, pinoy r&b, kundiman, pinoy indie",75
+2025-12-14 12:55:00,H.E.R.,Focus,r&b,75
+2025-12-14 13:02:00,Iron & Wine,"Flightless Bird, American Mouth - Wedding Version",indie folk,63
+2025-12-14 13:07:00,BROCKHAMPTON,WASTE,"hip-hop, rap, hip hop, pop rap, experimental hip hop",63
+2025-12-14 13:11:00,BROCKHAMPTON,SUGAR,"hip-hop, rap, hip hop, pop rap, experimental hip hop",63
+2025-12-14 13:14:00,BROCKHAMPTON,SUMMER,"hip-hop, rap, hip hop, pop rap, experimental hip hop",63
+2025-12-14 12:59:00,Hohyun,SUNSET BOULEVARD,"k-indie, korean",39
+2025-12-14 13:18:00,Djo,Chateau (Feel Alright),"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-14 13:22:00,Djo,Roddy,"psychedelic pop, indie pop, indie rock, indie, psychedelic",79
+2025-12-14 13:25:00,Wallows,Only Ecstasy,indie,69
+2025-12-14 13:30:00,Wallows,Don’t You Think It’s Strange?,indie,69
+2025-12-14 13:33:00,Wallows,I Wouldn’t Mind,indie,69
+2025-12-14 13:35:00,Wallows,Bad Dream,indie,69
+2025-12-14 13:39:00,Wallows,You (Show Me Where My Days Went),indie,69
+2025-12-14 13:43:00,Electric Light Orchestra,Mr. Blue Sky,"art rock, soft rock",73
+2025-12-14 11:12:00,Coldplay,feelslikeimfallinginlove,"rock, alternative, britpop, alternative rock, indie",90
+2025-12-15 09:25:00,kiyo,Shineboi,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:29:00,kiyo,Hanggang Kailan,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:33:00,kiyo,"Pantalan, Pt. 2","pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:37:00,kiyo,Nandito Na,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:41:00,kiyo,Okay lang yan,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:45:00,kiyo,sakay,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:49:00,kiyo,Ikaw Lang,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:53:00,kiyo,Eba,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 09:56:00,kiyo,HEY,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:05:00,kiyo,G,"idm, glitch, ambient, rap, opm",76
+2025-12-15 10:10:00,kiyo,brb,"idm, glitch, ambient, rap, opm",76
+2025-12-15 10:13:00,kiyo,Pagkabigo,"idm, glitch, ambient, rap, opm",76
+2025-12-15 10:00:00,kiyo,"Pantalan, Pt. 1","pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:16:00,kiyo,Dantay,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:21:00,kiyo,Harana sa Sarili,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:26:00,kiyo,Shineboi,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:30:00,kiyo,Hanggang Kailan,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:34:00,kiyo,"Pantalan, Pt. 2","pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:38:00,kiyo,Nandito Na,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:42:00,kiyo,Okay lang yan,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:45:00,kiyo,sakay,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:49:00,kiyo,Ikaw Lang,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:53:00,kiyo,Eba,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-15 10:57:00,kiyo,HEY,"pinoy hip hop, opm, pinoy r&b, harana, p-pop",62
+2025-12-17 11:15:00,Odeal,Miami (feat. Leon Thomas),"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 11:19:00,Adekunle GOLD,Sinner,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 11:22:00,Wale,City On Fire,"hip-hop, rap, hip hop, dc, go-go",77
+2025-12-17 11:25:00,Sasha Keable,Tai Chi,uk r&b,59
+2025-12-17 11:28:00,Masego,I Win,"jazz, rnb, soul, electronic, house",72
+2025-12-17 11:30:00,UMI,HARD TRUTHS,"rnb, hip-hop, soul, rutracker, upcoming album 2022",59
+2025-12-17 11:33:00,Odeal,My Heart,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 11:35:00,Adekunle GOLD,Lailo,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 11:38:00,Wale,Watching Us (with Leon Thomas),"hip-hop, rap, hip hop, dc, go-go",77
+2025-12-17 11:42:00,Leon Thomas,5MoreMinutes,"jazz, soul, funk, spiritual jazz, free jazz",76
+2025-12-17 11:45:00,Masego,Unhinged,"jazz, rnb, soul, electronic, house",72
+2025-12-17 11:48:00,JID,Wholeheartedly (with Ty Dolla $ign & 6LACK),"rap, hip-hop, trap, hip hop, rnb",76
+2025-12-17 11:55:00,Adekunle GOLD,"Dior, Dior, Dior","afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 11:58:00,Kvngs,Rémy,"afroswing, afro r&b, alté, afrobeats",36
+2025-12-17 12:01:00,Leon Thomas,Lone Wolf (feat. 4batz),"jazz, soul, funk, spiritual jazz, free jazz",76
+2025-12-17 12:04:00,Masego,Spin The Block,"jazz, rnb, soul, electronic, house",72
+2025-12-17 12:07:00,6LACK,Decatur,"rnb, rap, soul, hip-hop, atlanta",73
+2025-12-17 12:10:00,Odeal,Molotov,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 11:52:00,Odeal,Reason (feat. Elijah Fox),"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 12:12:00,Adekunle GOLD,Okay,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 12:15:00,Sincerely Suav,MORE THAN,afro house,49
+2025-12-17 12:19:00,Kaboo,Thursday,alté,25
+2025-12-17 12:22:00,Isaiah falls,ENTICING,dark r&b,61
+2025-12-17 12:24:00,Tems,Lagos Love,"afrobeats, afro r&b, alté, afrobeat",80
+2025-12-17 12:28:00,Odeal,London Summers,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 12:31:00,Adekunle GOLD,One Woman,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 12:34:00,Wale,Power and Problems,"hip-hop, rap, hip hop, dc, go-go",77
+2025-12-17 12:38:00,Alpha Ojini,BADDIEZ & FREAKZ,"nigerian drill, alté",38
+2025-12-17 12:41:00,melvitto,For Days,"afrobeats, afrobeat, alté, afroswing, afro r&b, afropop, afro soul",62
+2025-12-17 12:45:00,Tems,I'm Not Sure,"afrobeats, afro r&b, alté, afrobeat",80
+2025-12-17 12:47:00,Odeal,Repercussions,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 12:50:00,Adekunle GOLD,Party No Dey Stop (with Zinoleesky),"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 12:55:00,Isaiah falls,BROWN SUGAH,dark r&b,61
+2025-12-17 12:58:00,Miiles44,After Everything,afro r&b,35
+2025-12-17 13:01:00,Tems,Mine,"afrobeats, afro r&b, alté, afrobeat",80
+2025-12-17 13:03:00,Odeal,Blur,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 13:05:00,Adekunle GOLD,Attack,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 13:08:00,Niels,No Patience,Unknown,39
+2025-12-17 12:53:00,Taves,Economy,"alté, afro r&b, afro soul, afrobeats, afrobeat, afropop",50
+2025-12-17 13:12:00,melvitto,Take Control,"afrobeats, afrobeat, alté, afroswing, afro r&b, afropop, afro soul",62
+2025-12-17 13:15:00,McKay,Follow you,"afrobeats, afrobeat",55
+2025-12-17 13:19:00,Tems,First,"afrobeats, afro r&b, alté, afrobeat",80
+2025-12-17 13:22:00,Odeal,Addicted,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 13:25:00,Adekunle GOLD,Obimo,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 13:27:00,Afrobeats Central,Yes I Do,"afro r&b, afrobeats, afrobeat, alté, afro soul",34
+2025-12-17 13:30:00,melvitto,Ohemaa,"afrobeats, afrobeat, alté, afroswing, afro r&b, afropop, afro soul",62
+2025-12-17 13:38:00,Wani,About you,"alté, afro r&b, afrobeats, afroswing, afro soul, afrobeat",39
+2025-12-17 13:41:00,Odeal,Pretty Girls,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 13:44:00,Adekunle GOLD,Selah,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 13:47:00,Odeal,Nights In The Sun (feat. Wizkid),"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 13:50:00,Adekunle GOLD,Win,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 13:55:00,Wale,Belly,"hip-hop, rap, hip hop, dc, go-go",77
+2025-12-17 13:58:00,Ciza,"Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]","3 step, amapiano, afro house, afro tech, gqom, afropiano, private school piano, afrobeats",60
+2025-12-17 14:03:00,PROjEXX,Sexc,"afrobeats, alté, dancehall, afrobeat, afro r&b, afroswing, afro soul, afropop",46
+2025-12-17 14:06:00,Odeal,Wicked,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 14:08:00,Adekunle GOLD,Catch Me If You Can,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 14:11:00,Kvngs,Popular Loner,"afroswing, afro r&b, alté, afrobeats",36
+2025-12-17 13:53:00,Kvngs,Do It For Me,"afroswing, afro r&b, alté, afrobeats",36
+2025-12-17 14:13:00,Wale,Mirroronnabenz (with BNYX®),"hip-hop, rap, hip hop, dc, go-go",77
+2025-12-17 14:16:00,4batz,act xii: big on u,"rnb, rap, soul, hip hop, hip-hop",63
+2025-12-17 14:19:00,McKay,Melanin,"afrobeats, afrobeat",55
+2025-12-17 14:21:00,Odeal,Patience,"afroswing, alté, afro r&b, uk r&b, afrobeats, afro soul, afrobeat",70
+2025-12-17 14:25:00,Adekunle GOLD,Oba,"afrobeats, afrobeat, afropop, alté, afro r&b, afropiano, afro soul, afroswing",66
+2025-12-17 14:28:00,Alpha Ojini,PU$$Y & SCREENZ,"nigerian drill, alté",38
+2025-12-17 14:32:00,Wale,Corner Bottles,"hip-hop, rap, hip hop, dc, go-go",77
+2025-12-18 11:19:00,Krynoze,Pawmises,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2025-12-18 11:21:00,SHEATH,The Eternal Wanderer,"lo-fi, jazz beats, lo-fi beats",47
+2025-12-18 11:23:00,Tibeauthetraveler,Dragonwalker,"lo-fi, lo-fi hip hop, lo-fi beats",58
+2025-12-18 11:26:00,Xander.,Dover,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",57
+2025-12-18 11:28:00,Fatb,Aurora Boreale,"lo-fi hip hop, lo-fi, lo-fi beats",39
+2025-12-18 11:32:00,hoogway,Fragments Of The Moon,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2025-12-18 11:35:00,Kinissue,Sacrifice,"lo-fi, lo-fi hip hop",44
+2025-12-18 11:37:00,HEVI,Amore,"lo-fi hip hop, lo-fi, lo-fi beats",55
+2025-12-18 11:40:00,Dimension 32,Orpheus,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2025-12-18 11:42:00,Elijah Lee,Explorers,"lo-fi hip hop, lo-fi",50
+2025-12-18 11:44:00,Krynoze,Big Eyes,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2025-12-18 11:46:00,Erwin Do,Conversation,"jazz beats, lo-fi, lo-fi beats",56
+2025-12-18 11:49:00,dosi,Shadows,"lo-fi, lo-fi beats",56
+2025-12-18 11:51:00,Towerz,Pillows,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2025-12-18 11:57:00,Softy,Rover,"lo-fi hip hop, lo-fi, lo-fi beats",64
+2025-12-18 11:59:00,Sátyr,Dream Chaser,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",51
+2025-12-18 12:01:00,Simon Groß,Life Will Find A Way,lo-fi,48
+2025-12-18 12:05:00,Fugee,My Daily Crisis,"medieval, lo-fi",49
+2025-12-18 12:07:00,Sátyr,Back2Bed,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",51
+2025-12-18 12:10:00,bluntone,Render Your Heart,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-18 12:14:00,Dimension 32,Enchanted Melody,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2025-12-18 11:54:00,goson,Melodies In Bloom,"lo-fi, lo-fi hip hop, lo-fi beats",54
+2025-12-18 12:16:00,HM SURF,Writing All Day,"lo-fi hip hop, lo-fi, lo-fi beats",55
+2025-12-18 12:18:00,Amies,Break Away,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-18 12:21:00,azayaka,Autumn Breeze,"lo-fi, lo-fi beats",50
+2025-12-18 12:23:00,Krynoze,Fulfillment,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2025-12-18 12:26:00,J'San,Snow & Sand,"lo-fi, lo-fi beats, lo-fi hip hop",51
+2025-12-18 12:29:00,iamalex,Bluebird,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2025-12-18 12:32:00,STEEZY PRIME,misty nights,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2025-12-18 12:34:00,Living Room,The Night Is Full Of Wonders,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2025-12-18 12:37:00,Slo Loris,Void,"lo-fi hip hop, lo-fi, lo-fi beats",36
+2025-12-18 12:38:00,Softy,Fazed,"lo-fi hip hop, lo-fi, lo-fi beats",64
+2025-12-18 12:41:00,Nadav Cohen,1935 Baghdad,"lo-fi, lo-fi hip hop",52
+2025-12-18 12:43:00,Morningtime,look at you,"lo-fi, lo-fi beats",51
+2025-12-18 12:46:00,mell-ø,Without You,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2025-12-18 12:47:00,STEEZY PRIME,in the air,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2025-12-18 12:50:00,Softy,After Hours,"lo-fi hip hop, lo-fi, lo-fi beats",64
+2025-12-18 12:52:00,Sleepermane,Voyage,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2025-12-18 12:54:00,Miramare,Drowsy Town,"lo-fi hip hop, lo-fi",38
+2025-12-18 12:58:00,hoogway,Paper Planes,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2025-12-18 13:01:00,ornaut,echoes,lo-fi,41
+2025-12-18 13:04:00,kainbeats,Glacier,"lo-fi, lo-fi hip hop, lo-fi beats",60
+2025-12-18 13:06:00,Lomme,Fireside,"lo-fi hip hop, lo-fi",46
+2025-12-18 13:08:00,Tenno,Sayonara,"lo-fi, lo-fi hip hop, lo-fi beats",53
+2025-12-18 12:56:00,brillion.,Stardust,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2025-12-18 11:16:00,mell-ø,illume,"lo-fi hip hop, lo-fi, lo-fi beats",53
