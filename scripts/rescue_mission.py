@@ -9,8 +9,8 @@ from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
 # 1. YOUR EXACT SESSION WINDOW (Manila Time)
-START_TIME_STR = "2025-12-13 13:13:00" 
-END_TIME_STR   = "2025-12-13 13:16:00"
+START_TIME_STR = "2025-12-28 12:33:00" 
+END_TIME_STR   = "2025-12-28 15:05:00"
 
 # 2. YOUR TIMEZONE OFFSET (Manila = 8)
 TIMEZONE_OFFSET = 8 
