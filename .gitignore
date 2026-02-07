@@ -5,3 +5,9 @@ __pycache__/
 analysis_dashboard.py
 etl_pipeline.py
 .DS_Store
+
+# Project planning/documentation (keep local only)
+.github/
+for_ds/
+plans/
+project_memory/
